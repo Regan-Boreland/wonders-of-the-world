@@ -2,15 +2,19 @@ function howToPlay(){
 
 }
 
+function letsPlay(event){
+
+}
+
 function username(){
 
 }
 
-function ancientWondersGame(){
+function ancientWondersGame(event){
 
 }
 
-function modernWondersGame(){
+function modernWondersGame(event){
 
 }
 
