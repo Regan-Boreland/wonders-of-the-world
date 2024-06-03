@@ -97,12 +97,16 @@ footer {
 @media screen and (min-width: 768px) {
 /*body styles for tablets*/
     body{
-        font-size: 150%;
+        font-size: 200%;
     }
-
+/*header styles for tablet*/
     header{
         height: 15vh;
         padding: 2rem;
+    }
+
+    #lets-play-bttn{
+        font-size: 24px;
     }
 }
 
