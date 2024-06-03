@@ -19,6 +19,16 @@ main {
     display: flex;
     flex: 1 0 auto;
     flex-direction: column;
-    margin-top: 10vh;
     background: coral;
+}
+
+/*styles for header*/
+header {
+    height: 10vh;
+    width: 100vw;
+    padding: 1rem;
+    background-color: lightblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
