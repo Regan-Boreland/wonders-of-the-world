@@ -32,3 +32,16 @@ header {
     flex-direction: column;
     align-items: center;
 }
+
+/*media query for tablets*/
+@media screen and (min-width: 768px) {
+/*body styles for tablets*/
+    body{
+        font-size: 150%;
+    }
+
+    header{
+        height: 15vh;
+        padding: 2rem;
+    }
+}
