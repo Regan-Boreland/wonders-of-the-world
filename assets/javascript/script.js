@@ -1,9 +1,4 @@
-function howToPlay(){
-
-}
-
 function letsPlay(event){
-
 }
 
 function username(){
