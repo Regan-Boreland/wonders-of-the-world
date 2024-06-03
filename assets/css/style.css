@@ -34,9 +34,26 @@ header {
 }
 
 /*styles for main content*/
-main > div {
-    border: 2px;
-    border-radius: 5px;
+#content {
+    margin: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#how-to-container {
+    border: 2px solid black;
+    border-radius: 12px;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+#how-to-container > h3 {
+    align-self: center;
+
 }
 
 /*media query for tablets*/
